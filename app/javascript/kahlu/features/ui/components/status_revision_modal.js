@@ -3,7 +3,7 @@ import { defineMessages, injectIntl, FormattedMessage } from 'react-intl';
 import PropTypes from 'prop-types';
 import ImmutablePropTypes from 'react-immutable-proptypes';
 import ImmutablePureComponent from 'react-immutable-pure-component';
-import IconButton from 'gabsocial/components/icon_button';
+import IconButton from 'kahlu/components/icon_button';
 import StatusRevisionListContainer from '../containers/status_revision_list_container';
 
 const messages = defineMessages({
